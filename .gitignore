@@ -50,6 +50,9 @@ local.properties
 #*.apk
 #*.ap_
 
+# repo updating script
+update_repo.sh
+
 # Files for the Dalvik VM
 *.dex
 
